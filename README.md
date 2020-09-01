@@ -4,7 +4,7 @@ This repository contains the Master's thesis of Stanley Frederiksen.
 
 The project is conducted at the department of Biomedical sciences, Copenhagen University.
 
-### Baggrund
+### Background
 
 Atrial fibrillation affects more than 33 million people worldwide and increases the risk of stroke, heart failure, and death. The pathogenesis of AF remains poorly understood, which contributes to the current lack of highly effective treatments
 
