@@ -2,7 +2,7 @@
 
 This repository contains the Master's thesis of Stanley Frederiksen.
 
-The project is conducted at the department of Biomedical sciences, Copenhagen University.
+The project is conducted in collaboration with the department of Biomedical sciences, Copenhagen University.
 
 ### Background
 
